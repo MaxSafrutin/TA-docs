@@ -1,0 +1,6 @@
+*.json
+*.pdf
+*.docx
+*.doc
+.DS_Store
+Thumbs.db
